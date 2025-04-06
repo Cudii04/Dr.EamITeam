@@ -1,0 +1,66 @@
+body { margin: 0; background-color:#eff; }
+h1, .kozepre {text-align: center;}
+
+#bal{ background: #000000 url(back4.jpg); width: 8em;}
+.linkek{ margin:0;  padding:0.5em;  font-weight:bold;
+             list-style-type: none; }
+.linkek li{ color:#fff; padding-bottom:0.2em; }
+.linkek a{ text-decoration: none; }
+.linkek a:link{ color:#0f0; }
+.linkek a:visited{ color:#0f0; }
+.linkek a:hover{ color:#fbb; }
+.linkek a:active{ color:#f00; }
+.linkek a.aktualis:link{ color:#fff; }
+.linkek a.aktualis:visited{ color:#fff; }
+
+#nev1{ letter-spacing: 0.1em; }
+
+#jobb {position: absolute; top: 0; left: 8.1em; width: 32.0em;}
+
+#felso {position: absolute; top: 0; left: 0;}
+#vonal1a {position: absolute; top: 0.4em; width: 32.0em; height: 0.4em;}
+#fbal{ position: absolute; top: 1.0em; left: 0; width: 12em; }
+.nev2{ color:#0c0;  font-size:1.15em;  font-weight: bold;
+            letter-spacing: 0.1em; }
+#fogado{ font-weight:bold; }
+#email{ color:#0a0; }
+#kukac{ color:#aa0; } 
+
+#fjobb{ position: absolute; top: 1.0em; left: 12em; width: 20em;}
+#rektori{ width: 19.9em; height: 12.1em; margin: 1px;}
+/* szabalyos: 18.5 x 10 em */
+#vonal1b {position: absolute; top: 14.7em; width: 32.0em; height: 0.4em;}
+
+#also {position: absolute; top: 15.3em; left: 0.1em;}
+#pid { padding-left: 0.5em;}
+#idezet {float:left; border: 5px groove #0f0;}
+#idszoveg {padding-left: 1em; float:left;}
+#idkep { padding-left: 1em; float:left;}
+
+.komment {color: #00f;}
+
+#jobbpub {position: absolute; top: 0; left: 8.1em;}
+
+.ujsor {white-space: pre;}
+
+/*
+     FILE ARCHIVED ON 07:53:01 Dec 03, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:16:43 Apr 06, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.492
+  exclusion.robots: 0.018
+  exclusion.robots.policy: 0.008
+  esindex: 0.01
+  cdx.remote: 6.846
+  LoadShardBlock: 695.416 (3)
+  PetaboxLoader3.datanode: 150.833 (5)
+  PetaboxLoader3.resolve: 1680.701 (2)
+  load_resource: 1186.523
+  loaddict: 73.098
+*/
